@@ -1,0 +1,92 @@
+html{
+    background-color: black;
+    color: white
+}
+
+
+
+
+
+
+#red{
+    color: red;
+    background-color: red;
+    width: 200px;
+}
+#orange{
+    color: orange;
+    background-color: orange;
+    width: 200px;
+}
+#yellow{
+    color: yellow;
+    background-color: yellow;
+    width: 200px;
+}
+#green{
+    color: green;
+    background-color: green;
+    width: 200px;
+}
+#blue{
+    color: blue;
+    background-color: blue;
+    width: 200px;
+    
+}
+ul{
+    text-decoration-color: none;
+    
+}
+#square{
+    width: 100px;
+    height: 100px;
+    background: white;
+}
+#circle{
+    width: 100px;
+    height: 100px;
+    background: white;
+    border-radius: 50px;
+    
+}
+#top{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-top-color: white;
+    border-bottom-color: gray;
+    border-left-color: gray;
+    border-right-color: gray;
+}
+#tnb{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-left-color: gray;
+    border-right-color: gray;
+}
+}
+#trb{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-top-color: white;
+    border-bottom-color: white;
+    border-left-color: gray;
+    border-right-color: white;
+    border-style: solid;
+}
+
+#all{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border: white;
+    border-style: solid;
+    
+    
+
+}
